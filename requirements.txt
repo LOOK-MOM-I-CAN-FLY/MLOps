@@ -1,0 +1,10 @@
+fastapi
+unicorn[standard]
+pydantic
+transformers
+torch
+
+pytest
+httpx
+ruff
+black
